@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Lorena Moriana",
+      "empresa": "Lorena Alarmas S.A",
+      "email": "correo@correo.es",
+      "telefono": "600100200",
+      "notas": "Empresa centenaria en alarmas del hogar",
+      "id": 1
+    },
+    {
+      "nombre": "Pilar",
+      "empresa": "Pilar Calidad",
+      "email": "pili@gmail.com",
+      "telefono": "900500855",
+      "notas": "Jefa del departamento de Calidad S.L",
+      "id": 2
+    },
+    {
+      "nombre": "Manuel",
+      "empresa": "Zapatos S.L",
+      "email": "mazu@correo.es",
+      "telefono": "952758475",
+      "notas": "Empresario joven de primer nivel",
+      "id": 3
+    }
+  ]
+}
